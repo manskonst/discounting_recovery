@@ -1,0 +1,28 @@
+
+
+Choice Rule?
+
+Logistic, Softmax, Deterministic
+
+Maximum likelihood vs Bayesian?
+
+Choice set: How many items do we need to recover parameters? When is it not necessary to collect more data?
+
+Where to send?
+
+
+Step 1) Making sure this hasn't been done before
+
+Step 2) Go through classic temporal discounting papers and see the choice sets they used to elicit different effects: Common difference effect, magnitude effect, common ratio effect.
+
+Ask Ash about relevant papers.
+
+See what parameter values they get, and possibly use them as a starting point.
+
+
+Step 3) Looking through HB models of temporal discounting and identifying the item sets that are used. Do they use the classic choice sets? Or do they use some other choice set that make it easier to use Bayesian modelling.
+
+
+Admin:
+
+Set up drop box folder.

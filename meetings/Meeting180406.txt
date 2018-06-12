@@ -1,0 +1,62 @@
+Meeting with Ash and Manos - 4 March 2018
+
+Expand scope of paper so it looks reviews larger selection of models and examines the recovery.
+Model after Bhatia 2014 Decision paper.
+
+
+Structure of paper
+
+
+Random generation of stimuli
+ - parameter recovery (examine precision of estimation)
+ - model mimicry, fit each model to each simulated dataset and see if wrong model wins
+ 
+   - discounting models (hyperbolic, 
+   - trade-off models
+   - drift diffusion models
+
+
+Static choice set used in literature
+ - do same
+ 
+
+
+Adaptive design
+ - define reward space and delay space. Factorial combination
+ - same
+
+
+
+Do some reading, have a think about which models to include and which item sets.
+
+
+#Meeting - 16 May 2018
+
+#We need to start small build up from there.
+
+#Start with Cheng, Gonzalez-Vellejo (2016) item set (Experiment 1)
+
+#Models
+
+#Proportional difference (Eq 1 & 2) Pr = Normcdf(d), sigma and delta are free parameters. alpha is fixed to some maximum value.
+
+#Hyperbolic (Eq 3 & 4), k and sigma are free parameter. (don't include S parameter)
+
+#Tradeoff model (Eq 5), gamma, tau, eps, kappa, theta, alpha are free parameter
+
+#Check Ericson supplementary materials for hyperbolic and tradeoff model code
+
+#Start with maximum likelihood
+
+
+#TODO: Code up models
+
+#For future:
+#Two delayed options, vs One immediate? Random choice set ?
+
+
+
+
+
+
+
